@@ -1,4 +1,3 @@
-# AgeCalculator
 
 # 🧮 JavaScript Age Calculator
 
@@ -16,7 +15,7 @@ A simple and elegant web application that calculates a user's exact age in years
 - ⚡ **Instant Output**: Displays result immediately on button click without page reload
 
 ## 💻 Demo Screenshot
-*(Add a screenshot here of the application UI)*
+![Age Calculator Screenshot](Screenshot%202025-05-01%20171024.png)
 
 ## 🚀 How to Run
 1. Clone this repository
