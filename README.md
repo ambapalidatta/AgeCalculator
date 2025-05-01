@@ -14,9 +14,6 @@ A simple and elegant web application that calculates a user's exact age in years
 - 🎨 **Clean UI**: Stylish interface using modern CSS with a soft color palette and intuitive layout  
 - ⚡ **Instant Output**: Displays result immediately on button click without page reload
 
-## 💻 Demo Screenshot
-![Age Calculator Screenshot](Screenshot%202025-05-01%20171024.png)
-
 ## 🚀 How to Run
 1. Clone this repository
 2. Open `index.html` in your browser
